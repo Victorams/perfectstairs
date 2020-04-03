@@ -1,0 +1,975 @@
+{
+	"data": [{
+			"altura": 2.00,
+
+			"comprimentoIdeal": 3.30,
+			"espelhoIdeal": 0.167,
+			"degrausIdeal": 12.00,
+
+			"comprimentoMB": 3.03,
+			"espelhoMB": 0.167,
+			"degrausMB": 12.00,
+
+			"comprimentoOPG": 2.70,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 10.00,
+
+			"comprimentoBom": 2.75,
+			"espelhoBom": 0.182,
+			"degrausBom": 11.00,
+
+			"comprimentoMedio": 2.25,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 10.00,
+
+			"comprimentoRuim": 1.80,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 10.00
+		},
+		{
+			"altura": 2.05,
+
+			"comprimentoIdeal": 3.30,
+			"espelhoIdeal": 0.171,
+			"degrausIdeal": 12.00,
+
+			"comprimentoMB": 3.03,
+			"espelhoMB": 0.171,
+			"degrausMB": 12.00,
+
+			"comprimentoOPG": 3.00,
+			"espelhoOPG": 0.186,
+			"degrausOPG": 11.00,
+
+			"comprimentoBom": 2.75,
+			"espelhoBom": 0.186,
+			"degrausBom": 11.00,
+
+			"comprimentoMedio": 2.50,
+			"espelhoMedio": 0.186,
+			"degrausMedio": 11.00,
+
+			"comprimentoRuim": 2.00,
+			"espelhoRuim": 0.186,
+			"degrausRuim": 11.00
+		},
+		{
+			"altura": 2.10,
+
+			"comprimentoIdeal": 3.30,
+			"espelhoIdeal": 0.175,
+			"degrausIdeal": 12.00,
+
+			"comprimentoMB": 3.03,
+			"espelhoMB": 0.175,
+			"degrausMB": 12.00,
+
+			"comprimentoOPG": 3.00,
+			"espelhoOPG": 0.191,
+			"degrausOPG": 11.00,
+
+			"comprimentoBom": 2.75,
+			"espelhoBom": 0.191,
+			"degrausBom": 11.00,
+
+			"comprimentoMedio": 2.50,
+			"espelhoMedio": 0.191,
+			"degrausMedio": 11.00,
+
+			"comprimentoRuim": 2.00,
+			"espelhoRuim": 0.191,
+			"degrausRuim": 11.00
+		},
+		{
+			"altura": 2.15,
+
+			"comprimentoIdeal": 3.30,
+			"espelhoIdeal": 0.179,
+			"degrausIdeal": 12.00,
+
+			"comprimentoMB": 3.03,
+			"espelhoMB": 0.179,
+			"degrausMB": 12.00,
+
+			"comprimentoOPG": 3.00,
+			"espelhoOPG": 0.195,
+			"degrausOPG": 11.00,
+
+			"comprimentoBom": 2.75,
+			"espelhoBom": 0.195,
+			"degrausBom": 11.00,
+
+			"comprimentoMedio": 2.50,
+			"espelhoMedio": 0.195,
+			"degrausMedio": 11.00,
+
+			"comprimentoRuim": 2.00,
+			"espelhoRuim": 0.195,
+			"degrausRuim": 11.00
+		},
+		{
+			"altura": 2.20,
+
+			"comprimentoIdeal": 3.60,
+			"espelhoIdeal": 0.169,
+			"degrausIdeal": 13.00,
+
+			"comprimentoMB": 3.30,
+			"espelhoMB": 0.169,
+			"degrausMB": 13.00,
+
+			"comprimentoOPG": 3.00,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 11.00,
+
+			"comprimentoBom": 3.03,
+			"espelhoBom": 0.183,
+			"degrausBom": 12.00,
+
+			"comprimentoMedio": 2.50,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 11.00,
+
+			"comprimentoRuim": 2.00,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 11.00
+		},
+		{
+			"altura": 2.25,
+
+			"comprimentoIdeal": 3.60,
+			"espelhoIdeal": 0.173,
+			"degrausIdeal": 13.00,
+
+			"comprimentoMB": 3.30,
+			"espelhoMB": 0.173,
+			"degrausMB": 13.00,
+
+			"comprimentoOPG": 3.30,
+			"espelhoOPG": 0.188,
+			"degrausOPG": 12.00,
+
+			"comprimentoBom": 3.03,
+			"espelhoBom": 0.188,
+			"degrausBom": 12.00,
+
+			"comprimentoMedio": 2.75,
+			"espelhoMedio": 0.188,
+			"degrausMedio": 12.00,
+
+			"comprimentoRuim": 2.20,
+			"espelhoRuim": 0.188,
+			"degrausRuim": 12.00
+		},
+		{
+			"altura": 2.30,
+
+			"comprimentoIdeal": 3.60,
+			"espelhoIdeal": 0.177,
+			"degrausIdeal": 13.00,
+
+			"comprimentoMB": 3.30,
+			"espelhoMB": 0.177,
+			"degrausMB": 13.00,
+
+			"comprimentoOPG": 3.30,
+			"espelhoOPG": 0.192,
+			"degrausOPG": 12.00,
+
+			"comprimentoBom": 3.03,
+			"espelhoBom": 0.192,
+			"degrausBom": 12.00,
+
+			"comprimentoMedio": 2.75,
+			"espelhoMedio": 0.192,
+			"degrausMedio": 12.00,
+
+			"comprimentoRuim": 2.20,
+			"espelhoRuim": 0.192,
+			"degrausRuim": 12.00
+		},
+		{
+			"altura": 2.35,
+
+			"comprimentoIdeal": 3.60,
+			"espelhoIdeal": 0.181,
+			"degrausIdeal": 13.00,
+
+			"comprimentoMB": 3.30,
+			"espelhoMB": 0.181,
+			"degrausMB": 13.00,
+
+			"comprimentoOPG": 3.30,
+			"espelhoOPG": 0.196,
+			"degrausOPG": 12.00,
+
+			"comprimentoBom": 3.03,
+			"espelhoBom": 0.196,
+			"degrausBom": 12.00,
+
+			"comprimentoMedio": 2.75,
+			"espelhoMedio": 0.196,
+			"degrausMedio": 12.00,
+
+			"comprimentoRuim": 2.20,
+			"espelhoRuim": 0.196,
+			"degrausRuim": 12.00
+		},
+		{
+			"altura": 2.40,
+
+			"comprimentoIdeal": 3.90,
+			"espelhoIdeal": 0.171,
+			"degrausIdeal": 14.00,
+
+			"comprimentoMB": 3.58,
+			"espelhoMB": 0.171,
+			"degrausMB": 14.00,
+
+			"comprimentoOPG": 3.30,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 12.00,
+
+			"comprimentoBom": 3.30,
+			"espelhoBom": 0.185,
+			"degrausBom": 13.00,
+
+			"comprimentoMedio": 2.75,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 12.00,
+
+			"comprimentoRuim": 2.20,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 12.00
+		},
+		{
+			"altura": 2.45,
+
+			"comprimentoIdeal": 3.90,
+			"espelhoIdeal": 0.175,
+			"degrausIdeal": 14.00,
+
+			"comprimentoMB": 3.58,
+			"espelhoMB": 0.175,
+			"degrausMB": 14.00,
+
+			"comprimentoOPG": 3.60,
+			"espelhoOPG": 0.188,
+			"degrausOPG": 13.00,
+
+			"comprimentoBom": 3.30,
+			"espelhoBom": 0.188,
+			"degrausBom": 13.00,
+
+			"comprimentoMedio": 3.00,
+			"espelhoMedio": 0.188,
+			"degrausMedio": 13.00,
+
+			"comprimentoRuim": 2.40,
+			"espelhoRuim": 0.188,
+			"degrausRuim": 13.00
+		},
+		{
+			"altura": 2.50,
+
+			"comprimentoIdeal": 3.90,
+			"espelhoIdeal": 0.179,
+			"degrausIdeal": 14.00,
+
+			"comprimentoMB": 3.58,
+			"espelhoMB": 0.179,
+			"degrausMB": 14.00,
+
+			"comprimentoOPG": 3.60,
+			"espelhoOPG": 0.192,
+			"degrausOPG": 13.00,
+
+			"comprimentoBom": 3.30,
+			"espelhoBom": 0.192,
+			"degrausBom": 13.00,
+
+			"comprimentoMedio": 3.00,
+			"espelhoMedio": 0.192,
+			"degrausMedio": 13.00,
+
+			"comprimentoRuim": 2.40,
+			"espelhoRuim": 0.192,
+			"degrausRuim": 13.00
+		},
+		{
+			"altura": 2.55,
+
+			"comprimentoIdeal": 4.20,
+			"espelhoIdeal": 0.17,
+			"degrausIdeal": 15.00,
+
+			"comprimentoMB": 3.85,
+			"espelhoMB": 0.17,
+			"degrausMB": 15.00,
+
+			"comprimentoOPG": 3.60,
+			"espelhoOPG": 0.196,
+			"degrausOPG": 13.00,
+
+			"comprimentoBom": 3.58,
+			"espelhoBom": 0.182,
+			"degrausBom": 14.00,
+
+			"comprimentoMedio": 3.00,
+			"espelhoMedio": 0.196,
+			"degrausMedio": 13.00,
+
+			"comprimentoRuim": 2.40,
+			"espelhoRuim": 0.196,
+			"degrausRuim": 13.00
+		},
+		{
+			"altura": 2.60,
+
+			"comprimentoIdeal": 4.20,
+			"espelhoIdeal": 0.173,
+			"degrausIdeal": 15.00,
+
+			"comprimentoMB": 3.85,
+			"espelhoMB": 0.173,
+			"degrausMB": 15.00,
+
+			"comprimentoOPG": 3.60,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 13.00,
+
+			"comprimentoBom": 3.58,
+			"espelhoBom": 0.186,
+			"degrausBom": 14.00,
+
+			"comprimentoMedio": 3.00,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 13.00,
+
+			"comprimentoRuim": 2.40,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 13.00
+		},
+		{
+			"altura": 2.65,
+
+			"comprimentoIdeal": 4.20,
+			"espelhoIdeal": 0.177,
+			"degrausIdeal": 15.00,
+
+			"comprimentoMB": 3.85,
+			"espelhoMB": 0.177,
+			"degrausMB": 15.00,
+
+			"comprimentoOPG": 3.90,
+			"espelhoOPG": 0.189,
+			"degrausOPG": 14.00,
+
+			"comprimentoBom": 3.58,
+			"espelhoBom": 0.189,
+			"degrausBom": 14.00,
+
+			"comprimentoMedio": 3.25,
+			"espelhoMedio": 0.189,
+			"degrausMedio": 14.00,
+
+			"comprimentoRuim": 2.60,
+			"espelhoRuim": 0.189,
+			"degrausRuim": 14.00
+		},
+		{
+			"altura": 2.70,
+
+			"comprimentoIdeal": 4.20,
+			"espelhoIdeal": 0.18,
+			"degrausIdeal": 15.00,
+
+			"comprimentoMB": 3.85,
+			"espelhoMB": 0.18,
+			"degrausMB": 15.00,
+
+			"comprimentoOPG": 3.90,
+			"espelhoOPG": 0.193,
+			"degrausOPG": 14.00,
+
+			"comprimentoBom": 3.58,
+			"espelhoBom": 0.193,
+			"degrausBom": 14.00,
+
+			"comprimentoMedio": 3.25,
+			"espelhoMedio": 0.193,
+			"degrausMedio": 14.00,
+
+			"comprimentoRuim": 2.60,
+			"espelhoRuim": 0.193,
+			"degrausRuim": 14.00
+		},
+		{
+			"altura": 2.75,
+
+			"comprimentoIdeal": 4.50,
+			"espelhoIdeal": 0.172,
+			"degrausIdeal": 16.00,
+
+			"comprimentoMB": 4.13,
+			"espelhoMB": 0.172,
+			"degrausMB": 16.00,
+
+			"comprimentoOPG": 3.90,
+			"espelhoOPG": 0.196,
+			"degrausOPG": 14.00,
+
+			"comprimentoBom": 3.85,
+			"espelhoBom": 0.183,
+			"degrausBom": 15.00,
+
+			"comprimentoMedio": 3.25,
+			"espelhoMedio": 0.196,
+			"degrausMedio": 14.00,
+
+			"comprimentoRuim": 2.60,
+			"espelhoRuim": 0.196,
+			"degrausRuim": 14.00
+		},
+		{
+			"altura": 2.80,
+
+			"comprimentoIdeal": 4.50,
+			"espelhoIdeal": 0.175,
+			"degrausIdeal": 16.00,
+
+			"comprimentoMB": 4.13,
+			"espelhoMB": 0.175,
+			"degrausMB": 16.00,
+
+			"comprimentoOPG": 3.90,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 14.00,
+
+			"comprimentoBom": 3.85,
+			"espelhoBom": 0.187,
+			"degrausBom": 15.00,
+
+			"comprimentoMedio": 3.25,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 14.00,
+
+			"comprimentoRuim": 2.60,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 14.00
+		},
+		{
+			"altura": 2.85,
+
+			"comprimentoIdeal": 4.50,
+			"espelhoIdeal": 0.178,
+			"degrausIdeal": 16.00,
+
+			"comprimentoMB": 4.13,
+			"espelhoMB": 0.178,
+			"degrausMB": 16.00,
+
+			"comprimentoOPG": 4.20,
+			"espelhoOPG": 0.19,
+			"degrausOPG": 15.00,
+
+			"comprimentoBom": 3.85,
+			"espelhoBom": 0.19,
+			"degrausBom": 15.00,
+
+			"comprimentoMedio": 3.50,
+			"espelhoMedio": 0.19,
+			"degrausMedio": 15.00,
+
+			"comprimentoRuim": 2.80,
+			"espelhoRuim": 0.19,
+			"degrausRuim": 15.00
+		},
+		{
+			"altura": 2.90,
+
+			"comprimentoIdeal": 4.80,
+			"espelhoIdeal": 0.171,
+			"degrausIdeal": 17.00,
+
+			"comprimentoMB": 4.40,
+			"espelhoMB": 0.171,
+			"degrausMB": 17.00,
+
+			"comprimentoOPG": 4.20,
+			"espelhoOPG": 0.193,
+			"degrausOPG": 15.00,
+
+			"comprimentoBom": 4.13,
+			"espelhoBom": 0.181,
+			"degrausBom": 16.00,
+
+			"comprimentoMedio": 3.50,
+			"espelhoMedio": 0.193,
+			"degrausMedio": 15.00,
+
+			"comprimentoRuim": 2.80,
+			"espelhoRuim": 0.193,
+			"degrausRuim": 15.00
+		},
+		{
+			"altura": 2.95,
+
+			"comprimentoIdeal": 4.80,
+			"espelhoIdeal": 0.174,
+			"degrausIdeal": 17.00,
+
+			"comprimentoMB": 4.40,
+			"espelhoMB": 0.174,
+			"degrausMB": 17.00,
+
+			"comprimentoOPG": 4.20,
+			"espelhoOPG": 0.197,
+			"degrausOPG": 15.00,
+
+			"comprimentoBom": 4.13,
+			"espelhoBom": 0.184,
+			"degrausBom": 16.00,
+
+			"comprimentoMedio": 3.50,
+			"espelhoMedio": 0.197,
+			"degrausMedio": 15.00,
+
+			"comprimentoRuim": 2.80,
+			"espelhoRuim": 0.197,
+			"degrausRuim": 15.00
+		},
+		{
+			"altura": 3.00,
+
+			"comprimentoIdeal": 4.80,
+			"espelhoIdeal": 0.176,
+			"degrausIdeal": 17.00,
+
+			"comprimentoMB": 4.40,
+			"espelhoMB": 0.176,
+			"degrausMB": 17.00,
+
+			"comprimentoOPG": 4.20,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 15.00,
+
+			"comprimentoBom": 4.13,
+			"espelhoBom": 0.188,
+			"degrausBom": 16.00,
+
+			"comprimentoMedio": 3.50,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 15.00,
+
+			"comprimentoRuim": 2.80,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 15.00
+		},
+		{
+			"altura": 3.05,
+
+			"comprimentoIdeal": 4.80,
+			"espelhoIdeal": 0.179,
+			"degrausIdeal": 17.00,
+
+			"comprimentoMB": 4.40,
+			"espelhoMB": 0.179,
+			"degrausMB": 17.00,
+
+			"comprimentoOPG": 4.50,
+			"espelhoOPG": 0.191,
+			"degrausOPG": 16.00,
+
+			"comprimentoBom": 4.13,
+			"espelhoBom": 0.191,
+			"degrausBom": 16.00,
+
+			"comprimentoMedio": 3.75,
+			"espelhoMedio": 0.191,
+			"degrausMedio": 16.00,
+
+			"comprimentoRuim": 3.00,
+			"espelhoRuim": 0.191,
+			"degrausRuim": 16.00
+		},
+		{
+			"altura": 3.10,
+
+			"comprimentoIdeal": 5.10,
+			"espelhoIdeal": 0.172,
+			"degrausIdeal": 18.00,
+
+			"comprimentoMB": 4.68,
+			"espelhoMB": 0.172,
+			"degrausMB": 18.00,
+
+			"comprimentoOPG": 4.50,
+			"espelhoOPG": 0.194,
+			"degrausOPG": 16.00,
+
+			"comprimentoBom": 4.40,
+			"espelhoBom": 0.182,
+			"degrausBom": 17.00,
+
+			"comprimentoMedio": 3.75,
+			"espelhoMedio": 0.194,
+			"degrausMedio": 16.00,
+
+			"comprimentoRuim": 3.00,
+			"espelhoRuim": 0.194,
+			"degrausRuim": 16.00
+		},
+		{
+			"altura": 3.15,
+
+			"comprimentoIdeal": 5.10,
+			"espelhoIdeal": 0.175,
+			"degrausIdeal": 18.00,
+
+			"comprimentoMB": 4.68,
+			"espelhoMB": 0.175,
+			"degrausMB": 18.00,
+
+			"comprimentoOPG": 4.50,
+			"espelhoOPG": 0.197,
+			"degrausOPG": 16.00,
+
+			"comprimentoBom": 4.40,
+			"espelhoBom": 0.185,
+			"degrausBom": 17.00,
+
+			"comprimentoMedio": 3.75,
+			"espelhoMedio": 0.197,
+			"degrausMedio": 16.00,
+
+			"comprimentoRuim": 3.00,
+			"espelhoRuim": 0.197,
+			"degrausRuim": 16.00
+		},
+		{
+			"altura": 3.20,
+
+			"comprimentoIdeal": 5.10,
+			"espelhoIdeal": 0.178,
+			"degrausIdeal": 18.00,
+
+			"comprimentoMB": 4.68,
+			"espelhoMB": 0.178,
+			"degrausMB": 18.00,
+
+			"comprimentoOPG": 4.50,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 16.00,
+
+			"comprimentoBom": 4.40,
+			"espelhoBom": 0.188,
+			"degrausBom": 17.00,
+
+			"comprimentoMedio": 3.75,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 16.00,
+
+			"comprimentoRuim": 3.00,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 16.00
+		},
+		{
+			"altura": 3.25,
+
+			"comprimentoIdeal": 5.40,
+			"espelhoIdeal": 0.171,
+			"degrausIdeal": 19.00,
+
+			"comprimentoMB": 4.95,
+			"espelhoMB": 0.171,
+			"degrausMB": 19.00,
+
+			"comprimentoOPG": 4.80,
+			"espelhoOPG": 0.191,
+			"degrausOPG": 17.00,
+
+			"comprimentoBom": 4.68,
+			"espelhoBom": 0.181,
+			"degrausBom": 18.00,
+
+			"comprimentoMedio": 4.00,
+			"espelhoMedio": 0.191,
+			"degrausMedio": 17.00,
+
+			"comprimentoRuim": 3.20,
+			"espelhoRuim": 0.191,
+			"degrausRuim": 17.00
+		},
+		{
+			"altura": 3.30,
+
+			"comprimentoIdeal": 5.40,
+			"espelhoIdeal": 0.174,
+			"degrausIdeal": 19.00,
+
+			"comprimentoMB": 4.95,
+			"espelhoMB": 0.174,
+			"degrausMB": 19.00,
+
+			"comprimentoOPG": 4.80,
+			"espelhoOPG": 0.194,
+			"degrausOPG": 17.00,
+
+			"comprimentoBom": 4.68,
+			"espelhoBom": 0.183,
+			"degrausBom": 18.00,
+
+			"comprimentoMedio": 4.00,
+			"espelhoMedio": 0.194,
+			"degrausMedio": 17.00,
+
+			"comprimentoRuim": 3.20,
+			"espelhoRuim": 0.194,
+			"degrausRuim": 17.00
+		},
+		{
+			"altura": 3.35,
+
+			"comprimentoIdeal": 5.40,
+			"espelhoIdeal": 0.176,
+			"degrausIdeal": 19.00,
+
+			"comprimentoMB": 4.95,
+			"espelhoMB": 0.176,
+			"degrausMB": 19.00,
+
+			"comprimentoOPG": 4.80,
+			"espelhoOPG": 0.197,
+			"degrausOPG": 17.00,
+
+			"comprimentoBom": 4.68,
+			"espelhoBom": 0.186,
+			"degrausBom": 18.00,
+
+			"comprimentoMedio": 4.00,
+			"espelhoMedio": 0.197,
+			"degrausMedio": 17.00,
+
+			"comprimentoRuim": 3.20,
+			"espelhoRuim": 0.197,
+			"degrausRuim": 17.00
+		},
+		{
+			"altura": 3.40,
+
+			"comprimentoIdeal": 5.40,
+			"espelhoIdeal": 0.179,
+			"degrausIdeal": 19.00,
+
+			"comprimentoMB": 4.95,
+			"espelhoMB": 0.179,
+			"degrausMB": 19.00,
+
+			"comprimentoOPG": 4.80,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 17.00,
+
+			"comprimentoBom": 4.68,
+			"espelhoBom": 0.189,
+			"degrausBom": 18.00,
+
+			"comprimentoMedio": 4.00,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 17.00,
+
+			"comprimentoRuim": 3.20,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 17.00
+		},
+		{
+			"altura": 3.45,
+
+			"comprimentoIdeal": 5.70,
+			"espelhoIdeal": 0.173,
+			"degrausIdeal": 20.00,
+
+			"comprimentoMB": 5.23,
+			"espelhoMB": 0.173,
+			"degrausMB": 20.00,
+
+			"comprimentoOPG": 5.10,
+			"espelhoOPG": 0.192,
+			"degrausOPG": 18.00,
+
+			"comprimentoBom": 4.95,
+			"espelhoBom": 0.182,
+			"degrausBom": 19.00,
+
+			"comprimentoMedio": 4.25,
+			"espelhoMedio": 0.192,
+			"degrausMedio": 18.00,
+
+			"comprimentoRuim": 3.40,
+			"espelhoRuim": 0.192,
+			"degrausRuim": 18.00
+		},
+		{
+			"altura": 3.50,
+
+			"comprimentoIdeal": 5.70,
+			"espelhoIdeal": 0.175,
+			"degrausIdeal": 20.00,
+
+			"comprimentoMB": 5.23,
+			"espelhoMB": 0.175,
+			"degrausMB": 20.00,
+
+			"comprimentoOPG": 5.10,
+			"espelhoOPG": 0.194,
+			"degrausOPG": 18.00,
+
+			"comprimentoBom": 4.95,
+			"espelhoBom": 0.184,
+			"degrausBom": 19.00,
+
+			"comprimentoMedio": 4.25,
+			"espelhoMedio": 0.194,
+			"degrausMedio": 18.00,
+
+			"comprimentoRuim": 3.40,
+			"espelhoRuim": 0.194,
+			"degrausRuim": 18.00
+		},
+		{
+			"altura": 3.55,
+
+			"comprimentoIdeal": 5.70,
+			"espelhoIdeal": 0.178,
+			"degrausIdeal": 20.00,
+
+			"comprimentoMB": 5.23,
+			"espelhoMB": 0.178,
+			"degrausMB": 20.00,
+
+			"comprimentoOPG": 5.10,
+			"espelhoOPG": 0.197,
+			"degrausOPG": 18.00,
+
+			"comprimentoBom": 4.95,
+			"espelhoBom": 0.187,
+			"degrausBom": 19.00,
+
+			"comprimentoMedio": 4.25,
+			"espelhoMedio": 0.197,
+			"degrausMedio": 18.00,
+
+			"comprimentoRuim": 3.40,
+			"espelhoRuim": 0.197,
+			"degrausRuim": 18.00
+		},
+		{
+			"altura": 3.60,
+
+			"comprimentoIdeal": 5.70,
+			"espelhoIdeal": 0.18,
+			"degrausIdeal": 20.00,
+
+			"comprimentoMB": 5.23,
+			"espelhoMB": 0.18,
+			"degrausMB": 20.00,
+
+			"comprimentoOPG": 5.10,
+			"espelhoOPG": 0.20,
+			"degrausOPG": 18.00,
+
+			"comprimentoBom": 4.95,
+			"espelhoBom": 0.189,
+			"degrausBom": 19.00,
+
+			"comprimentoMedio": 4.25,
+			"espelhoMedio": 0.20,
+			"degrausMedio": 18.00,
+
+			"comprimentoRuim": 3.40,
+			"espelhoRuim": 0.20,
+			"degrausRuim": 18.00
+		},
+		{
+			"altura": 3.65,
+
+			"comprimentoIdeal": 6.00,
+			"espelhoIdeal": 0.174,
+			"degrausIdeal": 21.00,
+
+			"comprimentoMB": 5.50,
+			"espelhoMB": 0.174,
+			"degrausMB": 21.00,
+
+			"comprimentoOPG": 5.40,
+			"espelhoOPG": 0.192,
+			"degrausOPG": 19.00,
+
+			"comprimentoBom": 5.23,
+			"espelhoBom": 0.183,
+			"degrausBom": 20.00,
+
+			"comprimentoMedio": 4.50,
+			"espelhoMedio": 0.192,
+			"degrausMedio": 19.00,
+
+			"comprimentoRuim": 3.60,
+			"espelhoRuim": 0.192,
+			"degrausRuim": 19.00
+		},
+		{
+			"altura": 3.70,
+
+			"comprimentoIdeal": 6.00,
+			"espelhoIdeal": 0.176,
+			"degrausIdeal": 21.00,
+
+			"comprimentoMB": 5.50,
+			"espelhoMB": 0.176,
+			"degrausMB": 21.00,
+
+			"comprimentoOPG": 5.40,
+			"espelhoOPG": 0.195,
+			"degrausOPG": 19.00,
+
+			"comprimentoBom": 5.23,
+			"espelhoBom": 0.185,
+			"degrausBom": 20.00,
+
+			"comprimentoMedio": 4.50,
+			"espelhoMedio": 0.195,
+			"degrausMedio": 19.00,
+
+			"comprimentoRuim": 3.60,
+			"espelhoRuim": 0.195,
+			"degrausRuim": 19.00
+		},
+		{
+			"altura": 3.75,
+
+			"comprimentoIdeal": 6.00,
+			"espelhoIdeal": 0.179,
+			"degrausIdeal": 21.00,
+
+			"comprimentoMB": 5.50,
+			"espelhoMB": 0.179,
+			"degrausMB": 21.00,
+
+			"comprimentoOPG": 5.40,
+			"espelhoOPG": 0.179,
+			"degrausOPG": 19.00,
+
+			"comprimentoBom": 5.23,
+			"espelhoBom": 0.188,
+			"degrausBom": 20.00,
+
+			"comprimentoMedio": 4.50,
+			"espelhoMedio": 0.197,
+			"degrausMedio": 19.00,
+
+			"comprimentoRuim": 3.60,
+			"espelhoRuim": 0.197,
+			"degrausRuim": 19.00
+		}
+	]
+}
