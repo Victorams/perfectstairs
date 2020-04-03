@@ -1,0 +1,211 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+  color: white;
+}
+
+.App-content {
+  background-color: #424450;
+  min-height: 80vh;
+  color: white;
+}
+
+.heightSelectText {
+  margin: 0;
+  padding: 10px;
+}
+
+.stairTypesDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.upperDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.idealDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #338019;
+}
+
+.idealTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.veryGoodDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #629950;
+}
+
+.veryGoodTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.middleDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.goodForBigStepsDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #50997b;
+}
+
+.goodForBigStepsTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.goodDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #799950;
+}
+
+.goodTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.lowerDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.averageDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #b0a130;
+}
+
+.averageTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.badDiv {
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: #c47f2b;
+}
+
+.badTitle {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.git:link {
+  color: #bf78e2;
+}
+.git:visited {
+  color: #9831cc;
+}
+.git:hover {
+  color: #9831cc;
+}
+.git:active {
+  color: #731e9e;
+}
+
+.footerDiv {
+  padding-top: 10px;
+  background-color: #282c34;
+  color: white;
+  height: 32px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .idealDiv {
+    animation: shake infinite 4s linear;
+  }
+  .veryGoodDiv {
+    animation: shake infinite 4s linear;
+  }
+  .goodForBigStepsDiv {
+    animation: shakeRev infinite 4s linear;
+  }
+  .goodDiv {
+    animation: shakeRev infinite 4s linear;
+  }
+  .averageDiv {
+    animation: shake infinite 4s linear;
+  }
+  .badDiv {
+    animation: shake infinite 4s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes shake {
+  0% {transform: translate(-3px, 3px);}
+  50% {transform: translate(3px, -3px);}
+  100% {transform: translate(-3px, 3px);}
+}
+@keyframes shakeRev {
+  0% {transform: translate(3px, -3px);}
+  50% {transform: translate(-3px, 3px);}
+  100% {transform: translate(3px, -3px);}
+}
+
