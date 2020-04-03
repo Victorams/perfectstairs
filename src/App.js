@@ -34,7 +34,7 @@ function App() {
             {STAIRS.data.map((stairObj, idx) => {
               return (
                 <option key={stairObj.altura} value={idx}>
-                  {new Number(stairObj.altura).toFixed(2)}m
+                  {Number(stairObj.altura).toFixed(2)}m
                 </option>
               );
             })}
@@ -45,46 +45,46 @@ function App() {
             <div className='upperDiv'>
               <div className='idealDiv'>
                 <p className='idealTitle'>Ideal</p>
-                <p>Width: {new Number(stair.comprimentoIdeal).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoIdeal).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausIdeal).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoIdeal).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoIdeal).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausIdeal).toFixed(2)}m</p>
               </div>
               <div className='veryGoodDiv'>
                 <p className='veryGoodTitle'>Very Good</p>
-                <p>Width: {new Number(stair.comprimentoMB).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoMB).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausMB).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoMB).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoMB).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausMB).toFixed(2)}m</p>
               </div>
             </div>
             <div className='middleDiv'>
               <div className='goodForBigStepsDiv'>
                 <p className='goodForBigStepsTitle'>Good For Big Steps</p>
-                <p>Width: {new Number(stair.comprimentoOPG).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoOPG).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausOPG).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoOPG).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoOPG).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausOPG).toFixed(2)}m</p>
               </div>
               <div>
-                <img src={stairsImage} style={{ width: '250px', height: '250px', borderRadius: '100px'}}></img>
+                <img src={stairsImage} alt="Stairs!" style={{ width: '250px', height: '250px', borderRadius: '100px'}}></img>
               </div>
               <div className='goodDiv'>
                 <p className='goodTitle'>Good</p>
-                <p>Width: {new Number(stair.comprimentoBom).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoBom).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausBom).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoBom).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoBom).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausBom).toFixed(2)}m</p>
               </div>
             </div>
             <div className='lowerDiv'>
               <div className='averageDiv'>
                 <p className='averageTitle'>Average</p>
-                <p>Width: {new Number(stair.comprimentoMedio).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoMedio).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausMedio).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoMedio).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoMedio).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausMedio).toFixed(2)}m</p>
               </div>
               <div className='badDiv'>
                 <p className='badTitle'>Bad</p>
-                <p>Width: {new Number(stair.comprimentoRuim).toFixed(2)}m</p>
-                <p>Mirror: {new Number(stair.espelhoRuim).toFixed(2)}m</p>
-                <p>Steps: {new Number(stair.degrausRuim).toFixed(2)}m</p>
+                <p>Width: {Number(stair.comprimentoRuim).toFixed(2)}m</p>
+                <p>Mirror: {Number(stair.espelhoRuim).toFixed(2)}m</p>
+                <p>Steps: {Number(stair.degrausRuim).toFixed(2)}m</p>
               </div>
             </div>
           </div>
