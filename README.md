@@ -1,6 +1,6 @@
 Software written as practice. It depicts an application to calculate the ideal stair to be built, depending on the height you have available. The values used are real and are based on studies made by Architecture academics of the Federal University of Minas Gerais (UFMG).
 
-This version hosted and available on perfectstairs.herokuapp.com.
+This version is hosted and available on (https://perfectstairs.herokuapp.com).
 
 ## ################################################# ##
 
